@@ -1,2 +1,2 @@
 # Hangman-Gui
-A Hangman game developed in Java using Swing for a fully interactive GUI. Includes custom word management, life tracking, and dynamic feedback during play. Features a clean, panel-based layout for smooth navigation between game screens.
+A Java-based Hangman game with an interactive Swing GUI, featuring custom word management and life tracking. Includes dynamic feedback and a clean, panel-based layout for smooth screen navigation.
